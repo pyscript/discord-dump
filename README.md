@@ -2,6 +2,8 @@
 
 This repository contains a dump of all the *public channels* that were deleted in a Discord server cleanup on 2025-11-17.
 
+[View the contents of this dump here](https://pyscript.github.io/discord-dump/).
+
 Clone this repository and serve it as a static website:
 
 ```
